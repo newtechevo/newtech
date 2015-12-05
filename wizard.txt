@@ -1,0 +1,5 @@
+name="CCloud"
+url="https://github.com/newtechevo/newtech/raw/master/top10/top10addons.zip"
+img="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+fanart="https://raw.githubusercontent.com/newtechevo/newtech/master/top10/icon.png"
+description="Top 10 Addons"
